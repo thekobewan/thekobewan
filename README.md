@@ -1,4 +1,4 @@
-<h1>Hey, I'm Kobe, an <a href="https://www.linkedin.com/in/kobes/">IT Professional</a></h1>
+<h1>Hey, I'm Kobe! An <a href="https://www.linkedin.com/in/kobes/">IT Professional.</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
