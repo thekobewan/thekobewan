@@ -9,7 +9,6 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/thekobewan/configure-ad)
-  - [Utilizing DNS within Azure VMs](https://github.com/thekobewan/configure-ad)
   - [Editing Network File Sharing and Permissions](https://github.com/thekobewan/azure-network-protocols)
 
 <h2>Connect with me!</h2>
